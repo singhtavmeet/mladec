@@ -1,4 +1,12 @@
-/target/
+# Java build folders
+bin/
+target/
+*.class
+
+# Eclipse project files
 .settings/
-.classpath
 .project
+.classpath
+
+# VS Code
+.vscode/
